@@ -107,7 +107,8 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
 2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
 3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+4. **Indique a sua idade** direcionando cada tipo e exercicio por faixa etária.
+5. Use o prompt do assistente para gerar um plano de treino personalizado.
 
 ---
 
